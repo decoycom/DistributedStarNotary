@@ -1,4 +1,4 @@
-# Blockchain Data
+# Blockchain Distributed Star Notary
 
 Blockchain has the potential to change the way that the world approaches data. Develop Blockchain skills by understanding the data model behind Blockchain by developing your own simplified private blockchain.
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Installing Node and NPM is pretty straightforward using the installer package available from the (Node.js® web site)[https://nodejs.org/en/].
+Install Truffle and openzeppelin-solidity
 
 ### Configuring your project
 
@@ -45,7 +45,7 @@ Open the provided link in a browser.
 ## Built With
 
 * [Truffle](https://truffleframework.com/) - Truffle v5.0.6 
-* [openzeppelin-solidity](https://truffleframework.com/) - 2.1.2 
+* openzeppelin-solidity - 2.1.2 
 * ERC-721 Token Name is "VV's StarNotaryToken"
 * ERC-721 Token Symbol is "VST"
 * “Token Address” on the Rinkeby Network is "0xf185763566B1a78181adE96afd8a3Dab00A9d3AC"
